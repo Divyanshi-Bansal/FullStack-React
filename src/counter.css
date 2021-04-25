@@ -1,0 +1,19 @@
+div{
+    text-align: center;
+}
+h1{
+    color: red;
+    font-size: 40px;
+}
+hr{
+    width: 40%;
+}
+h2{
+    font-weight: bold;
+    color: blue;
+    font-size: 30px;
+}
+.btn{
+    padding: 10px;
+    margin: 20px;
+}

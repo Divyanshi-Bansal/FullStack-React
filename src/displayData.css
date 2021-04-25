@@ -1,0 +1,46 @@
+h1{
+    color: rgb(7, 7, 97);
+    font-size: 60px;
+    padding: 0;
+    margin: 0;
+}
+
+.userdata{
+    font-size: 30px;
+    padding: 20px;
+    margin: 20px;
+}
+
+input{
+    margin: 10px;
+    font-size: 22px;
+    padding: 6px;
+}
+
+button{
+    color: white;
+    padding: 9px;
+    font-size: 19px;
+    background-color: rgb(25, 25, 121);
+    border-style: none;
+}
+
+.box{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+table{
+    border-collapse: collapse;
+}
+td,th{
+    border-bottom: 1px solid grey;
+    font-size: 23px;
+    padding: 15px;
+}
+th{
+    background-color: grey;
+    color: white;
+}
